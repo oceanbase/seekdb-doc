@@ -2,7 +2,7 @@
 
 This catalog provides a comprehensive index of all seekdb documentation. When users ask about seekdb-related topics, you can use the descriptions to find relevant documents and fetch the content from the specified URLs.
 
-**Base URL**: `https://github.com/oceanbase/seekdb-doc/tree/V1.0.0/en-US/`
+**Base URL**: `https://raw.githubusercontent.com/oceanbase/seekdb-doc/tree/V1.0.0/en-US/`
 
 > **Note**: All File Paths below are relative paths. The full URL = Base URL + File Path
 
