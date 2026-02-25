@@ -2,8 +2,8 @@
   5.changelog=Product updates
   10.overview=Overview
   50.use-seekdb-with-sdk=SDK
-  80.use-seekdb-with-skill=Agent Skills
   100.use-seekdb-with-sql=SQL
+  110.use-seekdb-with-skill=Agent Skills
   200.ai-coding=Using seekdb with AI coding tools
 200.develop=Develop
   10.overview=Overview

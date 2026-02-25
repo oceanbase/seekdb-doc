@@ -2,8 +2,8 @@
   5.changelog=产品动态
   10.overview=seekdb 概述
   50.use-seekdb-with-sdk=使用 SDK
-  80.use-seekdb-with-skill=使用 Skill
   100.use-seekdb-with-sql=使用 SQL
+  110.use-seekdb-with-skill=使用 Skill
   200.ai-coding=在 AI Coding 中使用 seekdb
 200.develop=Develop
   10.overview=开发概述
