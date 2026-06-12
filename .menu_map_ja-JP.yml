@@ -1,8 +1,8 @@
 100.get-started=はじめに
-  10.seekdb-overview=seekdb概要
-  50.use-seekdb-with-sdk=SDKの使用
-  100.use-seekdb-with-sql=SQLの使用
-  200.ai-coding=AI Codingでのseekdbの使用
+  10.seekdb-overview=seekdbの概要
+  50.use-seekdb-with-sdk=SDKで使う
+  100.use-seekdb-with-sql=SQLで使う
+  200.ai-coding=AIコーディングで使う
 200.develop=開発
   10.develop-overview=開発の概要
   50.ai-workflow=AIワークフロー
