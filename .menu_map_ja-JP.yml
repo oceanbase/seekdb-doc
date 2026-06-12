@@ -1,10 +1,10 @@
 100.get-started=はじめに
-  5.changelog=製品アップデート
+  5.changelog=アップデート情報
   10.overview=seekdbの概要
-  50.use-seekdb-with-sdk=SDKの使用
-  100.use-seekdb-with-sql=SQLの使用
-  110.use-seekdb-with-skill=Skillの使用
-  200.ai-coding=AI Codingでのseekdbの使用
+  50.use-seekdb-with-sdk=SDKで使う
+  100.use-seekdb-with-sql=SQLで使う
+  110.use-seekdb-with-skill=スキルで使う
+  200.ai-coding=AIコーディングで使う
 200.develop=開発
   10.overview=開発の概要
   50.ai-workflow=AIワークフロー
